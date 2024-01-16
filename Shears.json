@@ -1,0 +1,23 @@
+{
+  "Author": "scrolledtoofar",
+  "Name": "Shears",
+  "InternalName": "Shears",
+  "AssemblyVersion": "1.0.0.0",
+  "ApplicableVersion": "any",
+  "Description": "Changes Hrothgars into another race of your choosing. Modifdied from Potato Famine",
+  "Punchline": "No more fur.",
+  "RepoUrl": "https://github.com/scrolledtoofar/Shears",
+  "Tags": [
+    "horthgar",
+    "fur"
+  ],
+  "CategoryTags": null,
+  "DalamudApiLevel": 9,
+  "LoadPriority": 0,
+  "LastUpdate": 0,
+  "DownloadLinkInstall": null,
+  "DownloadLinkUpdate": null,
+  "DownloadLinkTesting": null,
+  "ImageUrls": null,
+  "IconUrl": "https://raw.githubusercontent.com/scrolledtoofar/shears/Resources/Icons/shears.png"
+}
